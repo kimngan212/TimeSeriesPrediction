@@ -1,3 +1,4 @@
 Motivation for DTW
 - How similar are two signals?
 - Which points correspond to one another?
+If you are given 2 lists of numbers, you want to know how similar two lists are, we can compare the list one by one (point by point for signals)
